@@ -202,7 +202,7 @@ PERFORMANCE OF THIS SOFTWARE.
 هي علائقو تاريخي طور تي سنڌ جي قديم تهذيب سان پڻ ڳنڍيل آهي، جتي مقامي قبيلن ۽ راڄائن پنهنجي تهذيب ۽ ثقافت سان ان کي مالا مال ڪيو. وقت سان گڏوگڏ گورک هل جو ذڪر صوفي بزرگن، سياحن ۽ محققن جي لکڻين ۾ به ملي ٿو، جيڪو ان جي تاريخي اهميت جو ثبوت آهي۔<br><br>
     گورک هل تي شام جو لهندڙ سج ۽ صبح جو اڀرندڙ سج جو نظارو اهڙو لڳندو آهي ڄڻ ته سوني جي بارش ٿي رهي هجي. "بينظير ويو پوائنٽ" تان بلوچستان جي خضدار واري کيرٿر جبلن جو نظارو دل کي ڇهڻ وارو آهي. ٿڌڙي هوا، وڻندڙ ماحول، ۽ فطري خوبصورتي هر سياح کي موهي وٺي ٿي
     <br/><br/>
-    "Data from Wickedpa, Reliable Source."
+   
     
     `,img:T1,documentry:`
     
@@ -227,7 +227,7 @@ PERFORMANCE OF THIS SOFTWARE.
 هيءَ ٽڪري ننگر اپرڪر شهر جي ڀرسان ڏکڻ الهندي طرف ۽ ڪڇ جي رڻ جي اتر- اڀرندي ڪنڊ تي آهي. ٻين جبلن وانگر هن جو پٿر تمام سخت نه آهي، ته به عمارت جي ڪم اچڻ جهڙو آهي. هتي هندن جي تيرٿ جا ڪي آستان آهن ۽ ڪيترائي قدرتي نظارا ڏسڻ جهڙا آهن.
 </p>
 <br/><br/>
-    "Data from Wickedpa, Reliable Source."
+  
 
     
 `,img:x1,documentry:`
@@ -243,7 +243,7 @@ PERFORMANCE OF THIS SOFTWARE.
     </p>
 
     <br/><br/>
-    "Data from Wickedpa, Reliable Source."
+    
     `,img:E1,documentry:`
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/Fs2NI2gJNdM?si=49-P2U7PBU9ZslNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     `},{id:4,title:"منڇر ڍنڍ",map:'<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114324.02724763694!2d67.60213488810703!3d26.435548028894715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x394ac0d36cca6089%3A0x1fcdef5c6e3787ea!2sManchar%20Lake!5e0!3m2!1sen!2s!4v1744372908227!5m2!1sen!2s" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',longDescription:`<p>منڇر ڍنڍ سنڌ، پاڪستان جي ضلعين دادو ۽ ڄامشورو ۾ ايشيا جي وڏي ۾ وڏي مٺي پاڻيءَ جي ڍنڍ آهي.منڇر ڍنڍ جي پکيڙ اٽڪل گهٽ ۾ گهٽ 350 چورس ڪلوميٽر آهي ۽ وڌ ۾ وڌ 520 چورس ڪلوميٽر آهي.
@@ -260,14 +260,14 @@ PERFORMANCE OF THIS SOFTWARE.
     </p>
     
     <br/><br/>
-    "Data from Wickedpa, Reliable Source."
+   
     `,img:C1,documentry:`
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/l2QbhbnO1v8?si=L0w2j61KzcU3OAQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     `},{id:5,title:"چوٽياري ڊيم",longDescription:`چوٽياري ڊيم  مصنوئي پاڻي جو زخيرو آهي جيڪو سانگهڙ ضلعي، سنڌ پاڪستان ۾ سانگهڙ شهر کان 35 ڪلوميٽر جي مفاصلي تي واقع آهي.هيءُ ڪُل 6 بِلين جي لاڳت سان 2002ع ۾ تعمير ڪيو ويو هو. هن ڊيم جي اڏاوت جو اهم مقصد ايل بي او ڊي جي کاري پاڻيءُ کي خارج ڪرڻ هو. ڊيم کي 750،000 ايڪڙ پاڻي جمع ڪرڻ جي گنجائش تحت 24،300 ايڪڙن جي ايراضيءَ ۾ وڌايو ويو. هن ڊيم جُڙڻ کان اڳ هيءُ علائقو ننڍين ڍنڍن جو هو جنهن ۾ نارا ڪينال ڇوڙ ڪندو هو. هيءُ علائقو پکين ۽ جانورن جي آماج گاھ هو پر هاڻ ايل بي او ڊي جي کاري پاڻي سبب متاثر ٿيو آهي.
     
     <br/><br/>
-    "Data from Wickedpa, Reliable Source."
+
     `,img:O1,documentry:`
     
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/WT0NXkTIcoA?si=9oALckp--mb4tO1q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -304,7 +304,7 @@ PERFORMANCE OF THIS SOFTWARE.
     
     
     </p>
-       "Data from Wickedpa, Reliable Source."
+       
     `,img:D1},{id:8,title:"صحراءِ ٿر ",longDescription:`<p>
     صحراءِ ٿر، جيڪو عام طور تي “ٿر ريگستان” جي نالي سان سڃاتو وڃي ٿو، سنڌ جي ڏاکڻي پاسي واقع آهي. هي صحرا پاڪستان جي سڀ کان وڏن ريگستانن مان هڪ آهي، جيڪو نه صرف پنهنجي واريءَ، مرڪ ۽ اُڃايل هوا سان سڃاتو وڃي ٿو، پر ساڳئي وقت هتان جي ماڻهن جي ثقافت، وفاداري، موسيقي، رنگن، ۽ محنتي زندگيءَ جي به عڪاسي ڪري ٿو. ٿرپارڪر، عمرڪوٽ، ۽ سانگهڙ ضلعن تي پکڙيل صحراءِ ٿر سرحدن پار ڪري ڀارت جي راجسٿان تائين پکڙيل آهي. جيتوڻيڪ هتي جي زمين خشڪ ۽ برسات جي اميد تمام گهٽ آهي، پر جڏهن ڪڏهن وسڪارو اچي ٿو ته هتان جي بنجر زمين حياتي سان ڀرجي وڃي ٿي. سرسبز ڍڳ، رنگ برنگا گل، ۽ هوا ۾ هلڪيون سرهيون خوشبوءِ... اهو سڀ ڪجهه ٿر جي خوبصورتيءَ کي بيان ڪري ٿو.  ٿر جون عورتون محنتي، صابر، پر اعتماد ۽ رنگن سان ڀريل ثقافت جو بهترين مثال آهن. سندن روايتي رنگين گجريدار لباس، هٿن ۾ چوڙيون، نڪ ۾ ڦلي، ۽ پيرن ۾ پائل انهن جي سونهن ۾ اضافو ڪن ٿا. اهي نه رڳو گهر سنڀالين ٿيون، پر جانورن جي سار سنڀال، پاڻي آڻڻ، ۽ اڻايل ڪم به سرانجام ڏين ٿيون.
     <br/><br/>
