@@ -9,9 +9,8 @@ import SinduDarya from "../../assets/images/historicalPlace/sukkurberaj.jpg";
 import kotriberaj from "../../assets/images/historicalPlace/kotriberaj.jpg";
 import MasoomShahJominaro from "../../assets/images/historicalPlace/MasoomShahMinara.jpg";
 import makliTomb from "../../assets/images/historicalPlace/maklitomb.jpg";
-import ram from "../../assets/images/historicalPlace/shriram.jpg";
-import church from "../../assets/images/historicalPlace/charch Karachi.jpg";
 
+import ruk from "../../assets/images/historicalPlace/ruk.jpg";
 const Place = [
   {
     id: 1,
@@ -80,6 +79,12 @@ const Place = [
     image: kotriberaj,
     title: "کوٹری بیراج",
     description: "کوٹری بیراج، جو سندھ، پاکستان ۾ واقع آهي، ",
+  },
+  {
+    id: 12,
+    image: ruk,
+    title: "رُڪ ريلوي اسٽيشن",
+    description: "رُڪ ريلوي اسٽيشن ضلعي شڪارپور جي تعلقي",
   },
 ];
 

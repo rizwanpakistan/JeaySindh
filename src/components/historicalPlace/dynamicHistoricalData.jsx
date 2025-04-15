@@ -11,6 +11,7 @@ import MasoomShahJominaro from "../../assets/images/historicalPlace/minaraSukkur
 import makliTomb from "../../assets/images/historicalPlace/maklitomb.jpg";
 import ram from "../../assets/images/historicalPlace/shriram.jpg";
 import church from "../../assets/images/historicalPlace/charch Karachi.jpg";
+import ruk from "../../assets/images/historicalPlace/ruk.jpg";
 const HistoricalData = [
   {
     id: 1,
@@ -371,6 +372,25 @@ const HistoricalData = [
     `,
     documentry: `
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/2bROHFTahzg?si=BL2cHoVL33a4Kw_x&amp;start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    `,
+  },
+
+  {
+    id: 12,
+    title: "رُڪ ريلوي اسٽيشن",
+    longDescription: `<p>
+
+    رُڪ ريلوي اسٽيشن ضلعي شڪارپور جي تعلقي لکي کان 7 ڪلوميٽر جي مفاصلي تي رُڪ ڳوٺ ۾ واقع آهي. هن ريلوي اسٽيشن جو بنياد 1898ع ۾ پيو. هن ريلوي اسٽيشن تي اَمر راڳي ڀَڳت ڪَنور رام جي اَمر هجڻ جو واقعو پيش اچڻ ڪري ’رُڪ‘ کي تاريخي اهميت حاصل آهي. هن اسٽيشن تي ڀَڳت ڪنوررام کي جانو جلباڻيءَ نالي شخص 1 نومبر 1939ع تي قتل ڪري اَمر ڪيو هو، جيڪو ان دور جو هڪ المياتي واقعو هو. هن اسٽيشن تي نيرن اکرن ۾ انگريزي اَلفابيٽ ۾ساڄي پاسي کان (K.S.R) (ڪَلات اسٽيٽ ريلوي) مخفف طور لکيل آهي ۽ ٻئي کاٻي پاسي کان (I.V.S.R) (انڊس ويلي اسٽيٽ ريلوي) مخفف طور لکيل آهي.        
+ رُڪ اسٽيشن تي سنڌي فلمون (اباڻا) ۽ (ڪنور ڀڳت رام) پڻ فلمايون ويون هيون . رُڪ اسٽيشن جنڪشن به رهي آهي، جيڪا هڪ صديءَ ۽ ايڪويهين سالن جي تاريخ رکي ٿي. هيءَ اسٽيشن ڪنهن زماني ۾ سنڌ ۽ بلوچستان جي وڻج واپار جو وڏو مرڪز رهي آهي. 1942ع ۾ سنڌو درياهه جي ٻوڏ اچڻ ڪري، رُڪ اسٽيشن (جنڪشن) تباهه ٿي وئي، جنهنڪري ان جو اهو ساڳيو اؤج نه رهيو. هن اسٽيشن جي عمارت ۽ موجود نم جا شاهي وڻ اڄ به هن ماڳ جي تاريخي عظمت جي شاهدي ڏئي رهيا آهن. هن اسٽيشن جي تاريخي ماڳ هئڻ سبب هتي ڪيتريون شخصيتون اچي چڪيون آهن. هن اسٽيشن تي ڪيترا دفعا ڀڳت ڪنوررام بابت يادگار پروگرام ڪرايا ويا آهن، جن ۾ وڏي تعداد ۾ سنڌ جي اديبن ۽ شاعرن ۽ هندو ڪميونٽي جي ماڻهن پڻ شرڪت ڪري سوين ڏيئا ٻاري ڀڳت ڪنور رام کي ڀيٽا پيش ڪئي آهي.
+ <br/> <br/>
+ تحرير : آفتاب عالم مھر
+    </p> `,
+    img: ruk,
+    map: `
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3528.9698805040557!2d68.65815807530448!3d27.810697976123535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39343170a4a0d12b%3A0x29479f714dd6941b!2sRuk!5e0!3m2!1sen!2s!4v1744741124615!5m2!1sen!2s"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    `,
+    documentry: `
+   <iframe width="100%" height="315" src="https://www.youtube.com/embed/jI1MaX9ZHo4?si=_0C3RwpovI1jD8Q-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     `,
   },
 ];
