@@ -1,0 +1,55 @@
+import Navbar from "./components/navbar/navbar.jsx";
+import Hero from "./components/Hero/Hero.jsx";
+import { Routes, Route, Router } from "react-router-dom";
+///
+import About from "./components/pages/About/About.jsx";
+import More_Detail from "./components/pages/About/MoreDetail.jsx";
+///
+import FamousPlaces from "./components/Famousplaces/famous.jsx";
+///
+import HistoricalPlaces from "./components/historicalPlace/historicalPlace.jsx";
+///
+import ShrinePlace from "./components/ShrinesofSindh/shrine.jsx";
+///
+import SindhiFood from "./components/Sindhifood/Sindhifood.jsx";
+///
+import SindhiCultureGallery from "./components/gallery/gallery.jsx";
+/// just check demo
+import DynamicPageFamousData from "./components/Famousplaces/famousdynamicPage.jsx";
+///
+import DynamicHistoricalPage from "./components/historicalPlace/dynamicHistoricalPages.jsx";
+import ShrineDynamicPageData from "./components/ShrinesofSindh/ShrineDynamicPage.jsx";
+/////
+import Footer from "./components/Footer/footer.jsx";
+import "bootstrap-icons/font/bootstrap-icons.css";
+
+function App() {
+  return (
+    <>
+      <Navbar />
+
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <>
+              <Hero />
+              <About />
+              <FamousPlaces />
+              <HistoricalPlaces />
+              <ShrinePlace />
+              <SindhiFood />
+              <SindhiCultureGallery />
+            </>
+          }
+        />
+        <Route path="/more-detail" element={<More_Detail />} />
+        <Route path="/place/:id" element={<DynamicPageFamousData />} />
+        <Route path="/Historical/:id" element={<DynamicHistoricalPage />} />
+        <Route path="/Shrine/:id" element={<ShrineDynamicPageData />} />
+      </Routes>
+      <Footer />
+    </>
+  );
+}
+export default App;

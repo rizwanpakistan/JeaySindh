@@ -1,0 +1,85 @@
+.slider-container {
+  width: 100%; /* Adjust as needed */
+  padding: 30px;
+}
+/* .famousSlider {
+  margin-top: 30px;
+  background-image: url(../../assets/images/ajrak.png);
+} */
+.famousSlider {
+  margin-top: 30px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../../assets/images/ajrak.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.slider-item {
+  position: relative;
+}
+
+.slider-content {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+  background-color: rgba(0, 0, 0) !important;
+  opacity: 0.8;
+  padding: 10px;
+}
+.famousSliderImg {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.famoush1 {
+  margin-bottom: 25px;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+  text-align: right;
+  margin-right: 5%;
+}
+.shortDescription {
+  font-size: 14px !important;
+  text-align: right;
+}
+a {
+  color: rgb(178, 177, 177) !important;
+  text-decoration: none !important;
+  font-size: 13px;
+}
+/* Dynamic page */
+.dataImg {
+  width: 100%;
+  /* height: 530px; */
+  min-height: 200px;
+  max-height: 600px;
+}
+.dataheading {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 28px;
+  font-weight: 900;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif !important;
+}
+.Data_content {
+  padding: 15px;
+  text-align: right;
+  word-spacing: 1.5px;
+}
+.Data_contentP {
+  font-size: 20px;
+  font-weight: 500;
+}
+.mapLocation iframe {
+  width: 100%;
+  height: 400px;
+}
+/* .seemoreLink {
+  float: left;
+} */
+.IndexH1 {
+  text-align: right;
+}

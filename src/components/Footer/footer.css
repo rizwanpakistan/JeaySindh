@@ -1,0 +1,10 @@
+.footer {
+  background-color: black;
+}
+.bi {
+  font-size: 18px;
+}
+.bi-facebook,
+.bi-linkedin {
+  color: rgb(45, 45, 240);
+}
