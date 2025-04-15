@@ -1,4 +1,5 @@
 import logo from "../../assets/images/logo.png";
+import { Link } from "react-router-dom";
 import "./navbar.css";
 function Navbar() {
   return (
@@ -39,20 +40,12 @@ function Navbar() {
             <div className="offcanvas-body slide-nav">
               <ul className="navbar-nav justify-content-end flex-grow-1 pe-3">
                 <li className="nav-item" style={{ textAlign: "right" }}>
-                  <a
-                    className="nav-link active border-bottom"
-                    aria-current="page"
-                    href="/"
-                  >
+                  <Link className="nav-link active border-bottom" to="/">
                     آغاز
-                  </a>
-                  <a
-                    className="nav-link  border-bottom"
-                    aria-current="page"
-                    href="/More-Detail"
-                  >
+                  </Link>
+                  <Link className="nav-link border-bottom" to="/more-detail">
                     بابت
-                  </a>
+                  </Link>
                 </li>
               </ul>
               {/* <form className="d-flex mt-3" role="search">
