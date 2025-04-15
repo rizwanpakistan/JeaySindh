@@ -6,9 +6,10 @@ function Navbar() {
     <>
       <nav className="navbar fixed-top">
         <div className="container">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/JeaySindh/">
             <img src={logo} alt="logo" />
           </Link>
+
           <button
             className="navbar-toggler"
             type="button"
