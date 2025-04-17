@@ -5,6 +5,9 @@ import { Routes, Route, Router } from "react-router-dom";
 import About from "./components/pages/About/About.jsx";
 import More_Detail from "./components/pages/About/MoreDetail.jsx";
 ///
+///
+import Documentry from "./components/documenrySindh/document.jsx";
+///
 import FamousPlaces from "./components/Famousplaces/famous.jsx";
 ///
 import HistoricalPlaces from "./components/historicalPlace/historicalPlace.jsx";
@@ -35,6 +38,7 @@ function App() {
             <>
               <Hero />
               <About />
+              <Documentry />
               <FamousPlaces />
               <HistoricalPlaces />
               <ShrinePlace />
