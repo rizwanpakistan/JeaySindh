@@ -23,6 +23,8 @@ import DynamicPageFamousData from "./components/Famousplaces/famousdynamicPage.j
 import DynamicHistoricalPage from "./components/historicalPlace/dynamicHistoricalPages.jsx";
 import ShrineDynamicPageData from "./components/ShrinesofSindh/ShrineDynamicPage.jsx";
 /////
+import Leaders from "./components/Leaders/leader.jsx";
+//
 import Footer from "./components/Footer/footer.jsx";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
@@ -42,6 +44,7 @@ function App() {
               <FamousPlaces />
               <HistoricalPlaces />
               <ShrinePlace />
+              <Leaders />
               <SindhiFood />
               <SindhiCultureGallery />
             </>
