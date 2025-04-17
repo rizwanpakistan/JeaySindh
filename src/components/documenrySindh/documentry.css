@@ -1,13 +1,3 @@
-.documentry iframe {
-  width: 100%;
-  height: 300px;
-  overflow: hidden;
-}
-.documentry iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
 .text {
   text-align: right;
   font-size: 20px;
