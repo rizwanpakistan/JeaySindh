@@ -24,6 +24,7 @@ import DynamicHistoricalPage from "./components/historicalPlace/dynamicHistorica
 import ShrineDynamicPageData from "./components/ShrinesofSindh/ShrineDynamicPage.jsx";
 /////
 import Leaders from "./components/Leaders/leader.jsx";
+import SindhBraveLeader from "./components/Leaders/SindhLeaderData.jsx";
 //
 import Footer from "./components/Footer/footer.jsx";
 import "bootstrap-icons/font/bootstrap-icons.css";
@@ -54,6 +55,7 @@ function App() {
         <Route path="/place/:id" element={<DynamicPageFamousData />} />
         <Route path="/Historical/:id" element={<DynamicHistoricalPage />} />
         <Route path="/Shrine/:id" element={<ShrineDynamicPageData />} />
+        <Route path="/Sindh_leader/:id" element={<SindhBraveLeader />} />
       </Routes>
       <Footer />
     </>

@@ -1,5 +1,6 @@
 import SindhLeader from "./leaderData";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import "./leader.css";
 function Leaders() {
   return (
@@ -23,9 +24,11 @@ function Leaders() {
                 />
                 <div class="card-body text-center">
                   <h5 class="card-title titleh5">{dataitem.title}</h5>
-                  <button type="button" className="LeaderBtn">
-                    وڌيڪ ڄاڻو
-                  </button>
+                  <Link to={`/Sindh_leader/${dataitem.id}`}>
+                    <button type="button" className="LeaderBtn">
+                      وڌيڪ ڄاڻو
+                    </button>
+                  </Link>
                 </div>
               </motion.div>
             </div>

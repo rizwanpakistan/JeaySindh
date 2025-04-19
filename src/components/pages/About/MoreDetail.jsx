@@ -18,7 +18,7 @@ function More_Detail() {
     <div className="container">
       {/* new row */}
       <div className="row">
-        <div className="col-12  p-3 SindhDetail">
+        <div className="col-12  p-3 SindhDetail fs-4">
           <h1 className="SindhDateH1">سنڌ جي اقتصادي تاريخ</h1>
           <p className="SindhDetailP">
             سنڌ جي اقتصادي تاريخ : انساني ارتقا جي پس پرده محرڪن ۾ معيشت هڪ اهم

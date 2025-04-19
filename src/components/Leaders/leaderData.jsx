@@ -39,12 +39,12 @@ const SindhLeader = [
     img: hemu,
   },
   {
-    id: 5,
+    id: 7,
     title: "هوشو شيدي",
     img: hoshu,
   },
   {
-    id: 5,
+    id: 8,
     title: "جمن دربدر",
     img: Juman,
   },
