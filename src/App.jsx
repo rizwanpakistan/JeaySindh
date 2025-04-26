@@ -5,6 +5,7 @@ import { Routes, Route, Router } from "react-router-dom";
 import About from "./components/pages/About/About.jsx";
 import More_Detail from "./components/pages/About/MoreDetail.jsx";
 ///
+import SindhLoveStory from "./components/SindhLove/SindhLoveStory.jsx";
 ///
 import Documentry from "./components/documenrySindh/document.jsx";
 ///
@@ -40,7 +41,9 @@ function App() {
           element={
             <>
               <Hero />
+
               <About />
+              <SindhLoveStory />
               <Documentry />
               <FamousPlaces />
               <HistoricalPlaces />

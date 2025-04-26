@@ -6,6 +6,7 @@ import sorah from "../../assets/images/SindhiLeader/sorah.jpg";
 import hemu from "../../assets/images/SindhiLeader/hemo.jpg";
 import hoshu from "../../assets/images/SindhiLeader/hoshu-sheedi.jpeg";
 import Juman from "../../assets/images/SindhiLeader/juman.jpg";
+import bagt from "../../assets/images/SindhiLeader/bagat.jpg";
 const SindhLeader = [
   {
     id: 1,
@@ -47,6 +48,11 @@ const SindhLeader = [
     id: 8,
     title: "جمن دربدر",
     img: Juman,
+  },
+  {
+    id: 9,
+    title: "ڀڳت ڪنور رام",
+    img: bagt,
   },
 ];
 export default SindhLeader;

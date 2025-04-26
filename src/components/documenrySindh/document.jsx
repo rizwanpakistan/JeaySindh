@@ -2,7 +2,7 @@ import DocumentrySindh from "./documentFile";
 import "./documentry.css";
 function Documentry() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid mt-5 mb-5">
       <div className="row">
         {DocumentrySindh.map((item_card) => {
           return (

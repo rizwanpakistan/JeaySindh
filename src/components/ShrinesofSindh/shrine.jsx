@@ -36,21 +36,21 @@ function ShrinePlace() {
     ],
   };
   return (
-    <div className="slider-container ShrineSliderContainer">
+    <div className="slider-container ShrineSliderContainer mt-5 mb-5">
       <div className="container-fluid">
-        <h1 className="Shrineh1">سنڌ جون روحاني جڳهيون</h1>
+        <h1 className="Shrineh1 fs-1">سنڌ جون روحاني جڳهيون</h1>
         <Slider {...settings}>
           {ShrinesData.map((shrine) => {
             return (
-              <div key={shrine.id} className="slider-item p-2">
+              <div key={shrine.id} className="slider-item p-1">
                 <img
                   src={shrine.image}
                   alt={shrine.title}
                   className="slider-image ShrineSliderImg rounded "
                 />
                 <div className="slider-content">
-                  <h6 className="ShrineIndex">{shrine.title}</h6>
-                  <p className="shortdescriptionShrine">
+                  <h6 className="ShrineIndex fs-3">{shrine.title}</h6>
+                  <p className="shortdescriptionShrine fs-6">
                     {shrine.description}
                     <Link to={`/Shrine/${shrine.id}`}>
                       <span>...وڌيڪ ڏسو</span>

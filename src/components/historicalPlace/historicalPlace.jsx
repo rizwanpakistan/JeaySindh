@@ -37,22 +37,22 @@ function HistoricalPlaces() {
     ],
   };
   return (
-    <div className="Slider-container HistoricalSlider">
+    <div className="Slider-container HistoricalSlider mt-5 mb-5">
       <div className="container-fluid">
-        <h1 className="Historicalh1">سنڌ جا تاريخي خزانا</h1>
+        <h1 className="Historicalh1 fs-1">سنڌ جا تاريخي خزانا</h1>
         <Slider {...settings}>
           {Place.map((place) => {
             return (
-              <div key={place.id} className="slider-item p-2">
+              <div key={place.id} className="slider-item p-1">
                 <img
                   src={place.image}
                   alt={place.title}
                   className="slider-image HistoricalSliderImg rounded"
                 />
                 <div className="slider-content">
-                  <h6 className="NatureIndexH1">{place.title}</h6>
+                  <h6 className="NatureIndexH1 fs-3">{place.title}</h6>
 
-                  <p className="shortDescription">
+                  <p className="shortDescription fs-6">
                     {place.description}
                     <Link to={`/Historical/ ${place.id}`}>
                       <span>...وڌيڪ ڏسو</span>

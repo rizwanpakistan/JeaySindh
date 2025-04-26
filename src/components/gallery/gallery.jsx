@@ -12,7 +12,7 @@ function SindhiCultureGallery() {
   return (
     <div className="galleryBg">
       <div className="container my-5 p-3">
-        <h2 className=" mb-4 sindhGallery">سنڌ جا رنگ</h2>
+        <h1 className=" mb-4 sindhGallery fs-1">سنڌ جا رنگ</h1>
 
         <LightGallery
           speed={500}

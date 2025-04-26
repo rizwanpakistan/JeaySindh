@@ -4,10 +4,10 @@ function About() {
   const navigate = useNavigate();
   return (
     <>
-      <div className="container">
+      <div className="container mt-5 mb-5">
         <div className="row mainRow">
           <div className="col-12">
-            <h1 className="Abouth1">سنڌ جي شاندار ثقافت ۽ تاريخ</h1>
+            <h1 className="Abouth1 fs-1">سنڌ جي شاندار ثقافت ۽ تاريخ</h1>
           </div>
         </div>
         <div className="row middlerow">

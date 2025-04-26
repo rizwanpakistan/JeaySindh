@@ -1,10 +1,10 @@
 .slider-container {
   width: 100%; /* Adjust as needed */
-  padding: 30px !important;
+  padding: 20px !important;
 }
 .ShrineSliderContainer {
   margin-top: 40px;
-  padding: 30px;
+  padding: 20px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url(../../assets/images/ajrak3.jpeg);
   background-position: center;

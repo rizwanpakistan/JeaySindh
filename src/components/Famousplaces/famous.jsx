@@ -39,13 +39,13 @@ function FamousPlaces() {
     ],
   };
   return (
-    <div className="slider-container famousSlider">
+    <div className="slider-container famousSlider  mt-5 mb-5">
       <div className="container-fluid">
-        <h1 className="famoush1">سنڌ جو قدرتي حسن</h1>
+        <h1 className="famoush1 fs-1">سنڌ جو قدرتي حسن</h1>
         <Slider {...settings}>
           {Places.map((place) => {
             return (
-              <div key={place.id} className="slider-item p-2">
+              <div key={place.id} className="slider-item p-1">
                 <img
                   src={place.image}
                   alt={place.title}
@@ -53,9 +53,9 @@ function FamousPlaces() {
                 />
 
                 <div className="slider-content">
-                  <h6 className="IndexH1">{place.title}</h6>
+                  <h6 className="IndexH1 fs-3">{place.title}</h6>
 
-                  <p className="shortDescription">
+                  <p className="shortDescription fs-6">
                     {place.description}
                     <Link to={`/place/${place.id}`}>
                       <span className="seemoreLink">...وڌيڪ ڏسو</span>
