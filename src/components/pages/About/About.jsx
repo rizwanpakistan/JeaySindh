@@ -10,11 +10,11 @@ function About() {
             <h1 className="Abouth1 fs-1">سنڌ جي شاندار ثقافت ۽ تاريخ</h1>
           </div>
         </div>
-        <div className="row middlerow">
+        <div className="row middlerow ">
           <div className="col-lg-6 col-md-12 col-sm-12, col-12">
             <iframe
               width="100%"
-              height="350"
+              height="315"
               src="https://www.youtube.com/embed/j_I9dgMmkNU?si=RPkYG3V7hwxJG98y"
               title="YouTube video player"
               frameborder="0"

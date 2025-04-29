@@ -38,8 +38,8 @@ function Navbar() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="offcanvas-body slide-nav">
-              <ul className="navbar-nav justify-content-end flex-grow-1 pe-3">
+            <div className="offcanvas-body slide-nav fs-1">
+              <ul className="navbar-nav justify-content-end flex-grow-1 pe-3 ">
                 <li className="nav-item" style={{ textAlign: "right" }}>
                   <Link className="nav-link active border-bottom" to="/">
                     آغاز
