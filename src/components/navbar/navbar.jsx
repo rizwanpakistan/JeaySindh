@@ -1,5 +1,6 @@
 import logo from "../../assets/images/logo.png";
 import { Link } from "react-router-dom";
+import SindhAgriculture from "../pages/SindhAgriculture/Agriculture";
 import "./navbar.css";
 function Navbar() {
   return (
@@ -46,6 +47,9 @@ function Navbar() {
                   </Link>
                   <Link className="nav-link border-bottom" to="/more-detail">
                     بابت
+                  </Link>
+                  <Link className="nav-link border-bottom" to="/زراعت">
+                    زراعت
                   </Link>
                 </li>
               </ul>

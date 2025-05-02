@@ -9,6 +9,7 @@ import Juman from "../../assets/images/SindhiLeader/juman.jpg";
 import bagt from "../../assets/images/SindhiLeader/bagat.jpg";
 import KhalidSoomro from "../../assets/images/SindhiLeader/KhalidSoomro.jpg";
 import SarmandSindhi from "../../assets/images/SindhiLeader/SarmandSindhi.jpg";
+import dadaSindhi from "../../assets/images/SindhiLeader/dadaSindhi.jpg";
 const SindhLeader = [
   {
     id: 1,
@@ -65,6 +66,11 @@ const SindhLeader = [
     id: 11,
     title: "سرمد سنڌي",
     img: SarmandSindhi,
+  },
+  {
+    id: 12,
+    title: "دادا سنڌي",
+    img: dadaSindhi,
   },
 ];
 export default SindhLeader;
