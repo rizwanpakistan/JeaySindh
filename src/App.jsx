@@ -1,5 +1,6 @@
 import Navbar from "./components/navbar/navbar.jsx";
 import SindhAgriculture from "./components/pages/SindhAgriculture/Agriculture.jsx";
+import SindhUtaq from "./components/pages/Sindh_utaq/Utaq.jsx";
 import Hero from "./components/Hero/Hero.jsx";
 import { Routes, Route, Router } from "react-router-dom";
 ///
@@ -59,6 +60,7 @@ function App() {
           }
         />
         <Route path="/زراعت" element={<SindhAgriculture />} />
+        <Route path="/اوطاق" element={<SindhUtaq />} />
         <Route path="/more-detail" element={<More_Detail />} />
         <Route path="/more-detail" element={<More_Detail />} />
         <Route path="/place/:id" element={<DynamicPageFamousData />} />

@@ -17,7 +17,7 @@ function SindhiCultureGallery() {
         <LightGallery
           speed={500}
           plugins={[lgThumbnail, lgZoom]}
-          download={false}
+          download={true}
           zoomFromOrigin={true}
           hideBarsDelay={1000}
           selector="a"
@@ -40,7 +40,7 @@ function SindhiCultureGallery() {
                     alt={`Culture ${img.id}`}
                     className="img-fluid rounded shadow"
                     style={{
-                      height: "200px", // 👈 Fixed height
+                      height: "150px", // 👈 Fixed height
                       width: "100%",
                       objectFit: "cover", // 👈 Prevent layout breaking
                     }}

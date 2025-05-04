@@ -1,0 +1,13 @@
+.utaqContainer {
+  margin-top: 120px;
+}
+.UtaqImg {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.utaqDescriptipn {
+  font-weight: bold;
+  font-family: Verdana;
+}

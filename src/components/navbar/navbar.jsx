@@ -51,6 +51,9 @@ function Navbar() {
                   <Link className="nav-link border-bottom" to="/زراعت">
                     زراعت
                   </Link>
+                  <Link className="nav-link border-bottom" to="/اوطاق">
+                    اوطاق
+                  </Link>
                 </li>
               </ul>
               {/* <form className="d-flex mt-3" role="search">
