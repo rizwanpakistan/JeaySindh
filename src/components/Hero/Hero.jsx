@@ -22,7 +22,7 @@ function Hero() {
           >
             سنڌ: جتي روايتون، محبت ۽ تاريخ هڪٻئي سان جُڙيل آهن
           </motion.p>
-          <Link to="/More-Detail">
+          <Link to="/سنڌ جو تعارف">
             <motion.button
               type="submit"
               className="herobtn "

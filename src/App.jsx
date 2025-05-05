@@ -1,4 +1,5 @@
 import Navbar from "./components/navbar/navbar.jsx";
+import SindhiQomiTarana from "./components/pages/Sindhitarana/tarana.jsx";
 import SindhAgriculture from "./components/pages/SindhAgriculture/Agriculture.jsx";
 import SindhUtaq from "./components/pages/Sindh_utaq/Utaq.jsx";
 import Hero from "./components/Hero/Hero.jsx";
@@ -59,10 +60,11 @@ function App() {
             </>
           }
         />
+        <Route path="/سنڌ جو قومي ترانو" element={<SindhiQomiTarana />} />
         <Route path="/زراعت" element={<SindhAgriculture />} />
         <Route path="/اوطاق" element={<SindhUtaq />} />
-        <Route path="/more-detail" element={<More_Detail />} />
-        <Route path="/more-detail" element={<More_Detail />} />
+        <Route path="/سنڌ جو تعارف" element={<More_Detail />} />
+        <Route path="/سنڌ جو تعارف" element={<More_Detail />} />
         <Route path="/place/:id" element={<DynamicPageFamousData />} />
         <Route path="/Historical/:id" element={<DynamicHistoricalPage />} />
         <Route path="/Shrine/:id" element={<ShrineDynamicPageData />} />

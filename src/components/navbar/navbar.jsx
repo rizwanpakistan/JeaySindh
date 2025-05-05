@@ -45,8 +45,14 @@ function Navbar() {
                   <Link className="nav-link active border-bottom" to="/">
                     آغاز
                   </Link>
-                  <Link className="nav-link border-bottom" to="/more-detail">
-                    بابت
+                  <Link className="nav-link border-bottom" to="/سنڌ جو تعارف">
+                    سنڌ جو تعارف
+                  </Link>
+                  <Link
+                    className="nav-link border-bottom"
+                    to="/سنڌ جو قومي ترانو"
+                  >
+                    سنڌ جو قومي ترانو
                   </Link>
                   <Link className="nav-link border-bottom" to="/زراعت">
                     زراعت

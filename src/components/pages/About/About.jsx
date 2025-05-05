@@ -36,7 +36,7 @@ function About() {
             <button
               type="Submit"
               className="buttonDescription"
-              onClick={() => navigate("/more-detail")}
+              onClick={() => navigate("/سنڌ جو تعارف")}
             >
               وڌيڪ ڏسو
             </button>
