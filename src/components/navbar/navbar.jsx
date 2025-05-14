@@ -48,6 +48,9 @@ function Navbar() {
                   <Link className="nav-link border-bottom" to="/سنڌ جو تعارف">
                     سنڌ جو تعارف
                   </Link>
+                  <Link className="nav-link border-bottom" to="/poet ">
+                    سنڌ جون نامُوَر ادبي شخصيتون
+                  </Link>
                   <Link
                     className="nav-link border-bottom"
                     to="/سنڌ جو قومي ترانو"

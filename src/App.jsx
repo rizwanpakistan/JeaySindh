@@ -1,4 +1,5 @@
 import Navbar from "./components/navbar/navbar.jsx";
+import SindhPoetPage from "./components/pages/SindhiFamousPoets/Poets.jsx";
 import SindhiQomiTarana from "./components/pages/Sindhitarana/tarana.jsx";
 import SindhAgriculture from "./components/pages/SindhAgriculture/Agriculture.jsx";
 import SindhUtaq from "./components/pages/Sindh_utaq/Utaq.jsx";
@@ -9,6 +10,7 @@ import About from "./components/pages/About/About.jsx";
 import More_Detail from "./components/pages/About/MoreDetail.jsx";
 ///
 import SindhHistory from "./components/SindhHukoomat/sindhold.jsx";
+import SindhHistoryDynamicPage from "./components/SindhHukoomat/SindhHistoryDynamicPages.jsx";
 ///
 import SindhLoveStory from "./components/SindhLove/SindhLoveStory.jsx";
 ///
@@ -60,11 +62,15 @@ function App() {
             </>
           }
         />
+        {/* Navbar pages */}
+        <Route path="/سنڌ جو تعارف" element={<More_Detail />} />
+        <Route path="/سنڌ جو تعارف" element={<More_Detail />} />
+        <Route path="/poet" element={<SindhPoetPage />} />
         <Route path="/سنڌ جو قومي ترانو" element={<SindhiQomiTarana />} />
         <Route path="/زراعت" element={<SindhAgriculture />} />
         <Route path="/اوطاق" element={<SindhUtaq />} />
-        <Route path="/سنڌ جو تعارف" element={<More_Detail />} />
-        <Route path="/سنڌ جو تعارف" element={<More_Detail />} />
+        {/* dynamic pages */}
+        <Route path="/sin/:id" element={<SindhHistoryDynamicPage />} />
         <Route path="/place/:id" element={<DynamicPageFamousData />} />
         <Route path="/Historical/:id" element={<DynamicHistoricalPage />} />
         <Route path="/Shrine/:id" element={<ShrineDynamicPageData />} />
