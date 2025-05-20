@@ -80,6 +80,13 @@ import GuptaEmpireImg5 from "../../assets/images/GuptaEmpire/Gupta_EmpireImg5.jp
 import GuptaEmpireImg6 from "../../assets/images/GuptaEmpire/Gupta_EmpireImg6.jpeg";
 import GuptaEmpireImg7 from "../../assets/images/GuptaEmpire/Gupta_EmpireImg7.jpg";
 import GuptaEmpireImg8 from "../../assets/images/GuptaEmpire/Gupta_EmpireImg8.jpeg";
+//////////////////////////////////////////////////////////////////////////////
+//--------------Saasani Empire--------------------
+import SaasaniEmpireImg1 from "../../assets/images/SaasaniEmpireImg/SaasaniEmpireImg1.png";
+import SaasaniEmpireImg2 from "../../assets/images/SaasaniEmpireImg/SaasaniEmpireImg2.png";
+import SaasaniEmpireImg3 from "../../assets/images/SaasaniEmpireImg/SaasaniEmpireImg3.png";
+import SaasaniEmpireImg4 from "../../assets/images/SaasaniEmpireImg/SaasaniEmpireImg4.png";
+import SaasaniEmpireImg5 from "../../assets/images/SaasaniEmpireImg/SaasaniEmpireImg5.png";
 const SindhHistoryGallery = [
   {
     id: 1,
@@ -195,6 +202,17 @@ const SindhHistoryGallery = [
       GuptaEmpireImg6,
       GuptaEmpireImg7,
       GuptaEmpireImg8,
+    ],
+  },
+  {
+    id: 9,
+    title: "آرٽيفيشل انٽيليجنس جي مدد سان تيار ڪيل ساساني سلطنت جا تاريخي عڪس",
+    images: [
+      SaasaniEmpireImg1,
+      SaasaniEmpireImg2,
+      SaasaniEmpireImg3,
+      SaasaniEmpireImg4,
+      SaasaniEmpireImg5,
     ],
   },
 ];

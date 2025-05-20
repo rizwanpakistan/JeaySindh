@@ -10,12 +10,10 @@ function Hero() {
         <img src={heroImg} alt="Ajrak Image" />
         <div className="overlay"></div>
         <div className="body">
-          <h1 className="heroh1 fs-1">
-            ڀليڪار آهي اوهان کي سنڌ جي حسين ڌرتيءَ تي
-          </h1>
+          <h2 className="heroh1 ">ڀليڪار آهي اوهان کي سنڌ جي حسين ڌرتيءَ تي</h2>
 
           <motion.p
-            className="heroP fs-3"
+            className="heroP fs-2"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.5 }}

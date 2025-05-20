@@ -1,10 +1,25 @@
 import { useNavigate } from "react-router-dom";
+import SindhuDeshTaran from "../../../assets/images/SindhDeshTaranaFlag.mp4";
 import "./about.css";
 function About() {
   const navigate = useNavigate();
   return (
     <>
-      <div className="container mt-5 mb-5">
+      <div className="container px-0">
+        <div className="row">
+          <div className="col-12">
+            <video
+              src={SindhuDeshTaran}
+              controls
+              autoPlay
+              unmuted
+              width="100%"
+              className=""
+            />
+          </div>
+        </div>
+      </div>
+      <div className="container">
         <div className="row mainRow">
           <div className="col-12">
             <h1 className="Abouth1 fs-1">سنڌ جي شاندار ثقافت ۽ تاريخ</h1>
